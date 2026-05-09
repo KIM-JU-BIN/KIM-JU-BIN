@@ -1,4 +1,4 @@
-# Hi there, I'm [김주빈] 👋
+# Hi there, I'm 김주빈 👋
 
 > **Data-Centric Backend Developer & Aspiring DBA**
 > "데이터의 흐름을 설계하고, 시스템의 안정성을 책임지는 전문가를 꿈꿉니다."
